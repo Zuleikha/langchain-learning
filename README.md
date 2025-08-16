@@ -4,7 +4,7 @@ Learning LangChain step-by-step with Python and Jupyter notebooks.
 
 ## Progress
 
-### Week 1: Foundation - COMPLETE
+### Week 1: Foundation 
 - **Day 1-2**: Basic Setup & Simple Chains
 - **Day 3-4**: Prompt Templates 
 - **Day 5-7**: Chain Types
